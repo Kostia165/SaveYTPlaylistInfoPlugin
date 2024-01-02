@@ -13,3 +13,5 @@ This extension helps to save short info about video and maybe you will find alte
 <p>P.S. Extension have some bug: when you're switching playlists in the left menu. Old loaded meta infos won't be deleted from variable and will be saved together with new data. It has the next consequences: If you load one playlist and after that load playlist with less amount of videos then data from old playlist will be in the file with infos from the current playlist.</p>
 
 <p>P.S. Extension was tested in Opera.</p>
+
+<p>P.S. Repository that I based my code on: https://github.com/bkpvitorpf/youtube-playlist-time-info.git. TY!</p>
