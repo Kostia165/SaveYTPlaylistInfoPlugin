@@ -10,6 +10,6 @@ This extension helps to save short info about video and maybe you will find alte
 
 <p>Button "Save Data" will download data about playlist to file in json format.</p>
 
-<p>P.S. Extension have some bug: when you're switching playlists in the left menu. Old loaded meta infos won't be deleted from variable and will be saved together with new data. It has the next consequences: If you load one playlist and afther that load playlist with less amount of videos then data from old playlist will be in the file with infos from the current playlist.</p>
+<p>P.S. Extension have some bug: when you're switching playlists in the left menu. Old loaded meta infos won't be deleted from variable and will be saved together with new data. It has the next consequences: If you load one playlist and after that load playlist with less amount of videos then data from old playlist will be in the file with infos from the current playlist.</p>
 
 <p>P.S. Extension was tested in Opera.</p>
